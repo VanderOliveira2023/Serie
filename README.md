@@ -8,7 +8,10 @@ Projeto referente a serie THE LAST OF US.
 - [My process](#my-process)
 - [Author](#author)
 
-### Screenshot
+## Screenshot
 ![](./src/imagens/logo.png)
+
+## Links
+- Live Site URL: [URL do SITE](https://the-last-of-us-serie.netlify.app/)
 
 
